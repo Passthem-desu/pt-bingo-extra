@@ -1,8 +1,0 @@
-{
-    "type": "item",
-    "display": {
-        "name": "钻石锄"
-    },
-    "item": "minecraft:diamond_hoe",
-    "count": 1
-}
