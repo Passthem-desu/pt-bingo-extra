@@ -1,0 +1,10 @@
+{
+    "type": "scoreboard",
+    "scoreboardName": "pt.bingo.on_bedrock",
+    "min": 1,
+    "permanent": true,
+    "display": {
+        "name": "踩到基岩",
+        "item": "minecraft:bedrock"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "小帕和他的朋友们的 Bingo 扩展包",
+    "pack_format": 48,
+    "min_format": 48,
+    "max_format": 48
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "S": [],
+  "A": [],
+  "B": [],
+  "C": [],
+  "D": [
+    "pt_bingo_extra:get_64_sticks",
+    "pt_bingo_extra:step_on_bedrock"
+  ],
+  "groups": []
+}

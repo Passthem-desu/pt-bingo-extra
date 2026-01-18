@@ -1,0 +1,9 @@
+{
+  "type": "item",
+  "display": {
+    "name": "获得 64 个木棍"
+  },
+  "item": "minecraft:stick",
+  "count": 64,
+  "conflictsWith": ["minecraft:stick"]
+}
