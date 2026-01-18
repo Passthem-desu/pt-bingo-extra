@@ -1,0 +1,19 @@
+{
+    "type": "scoreboard",
+    "scoreboardName": "pt.bingo.rod_kill_sheep",
+    "min": 1,
+    "display": {
+        "name": {
+            "text": "草羊！？"
+        },
+        "lore": [
+            {
+                "text": "手持避雷针杀死一只羊"
+            }
+        ],
+        "item": "minecraft:lightning_rod"
+    },
+    "conflictsWith": [
+        "minecraft:lightning_rod"
+    ]
+}

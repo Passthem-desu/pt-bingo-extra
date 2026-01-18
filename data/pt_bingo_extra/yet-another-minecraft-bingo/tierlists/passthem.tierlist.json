@@ -3,7 +3,9 @@
   "A": [],
   "B": [],
   "C": [
-    "pt_bingo_extra:noteblock_tune"
+    "pt_bingo_extra:noteblock_tune",
+    "pt_bingo_extra:fk_sheep",
+    "pt_bingo_extra:unlucky_gravel"
   ],
   "D": [
     "pt_bingo_extra:get_64_sticks",

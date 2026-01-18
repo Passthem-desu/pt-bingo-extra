@@ -1,0 +1,21 @@
+{
+    "type": "scoreboard",
+    "scoreboardName": "pt.bingo.unlucky_gravel.status",
+    "min": 13,
+    "display": {
+        "name": {
+            "text": "石砾？！？！"
+        },
+        "lore": [
+            {
+                "text": "获得 12 个沙砾，但是不要获得燧石"
+            }
+        ],
+        "item": "minecraft:flint",
+        "decoration": "FORBIDDEN"
+    },
+    "conflictsWith": [
+        "minecraft:gravel",
+        "minecraft:flint"
+    ]
+}
