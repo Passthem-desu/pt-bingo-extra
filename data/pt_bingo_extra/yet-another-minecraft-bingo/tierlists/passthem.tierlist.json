@@ -1,7 +1,9 @@
 {
   "S": [],
   "A": [],
-  "B": [],
+  "B": [
+    "pt_bingo_extra:diamond_hoe"
+  ],
   "C": [],
   "D": [
     "pt_bingo_extra:get_64_sticks",
