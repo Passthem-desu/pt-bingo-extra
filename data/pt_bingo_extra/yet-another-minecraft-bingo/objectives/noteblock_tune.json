@@ -1,0 +1,12 @@
+{
+    "type": "stats",
+    "statType": "minecraft:custom",
+    "statName": "minecraft:tune_noteblock",
+    "min": 24,
+    "permanent": true,
+    "display": {
+        "name": "给音符盒调音 24 次",
+        "item": "minecraft:note_block"
+    },
+  "conflictsWith": ["minecraft:note_block"]
+}
