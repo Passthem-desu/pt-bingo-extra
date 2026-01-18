@@ -1,9 +1,10 @@
 {
   "S": [],
   "A": [],
-  "B": [],
+  "B": [
+    "pt_bingo_extra:noteblock_tune"
+  ],
   "C": [
-    "pt_bingo_extra:noteblock_tune",
     "pt_bingo_extra:fk_sheep",
     "pt_bingo_extra:unlucky_gravel"
   ],
