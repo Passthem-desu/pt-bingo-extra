@@ -16,11 +16,11 @@ execute as @a \
     unless score @s pt.bingo.unlucky_gravel.status matches -2147483648..2147483647 \
     run scoreboard players set @s pt.bingo.unlucky_gravel.status 1
 execute as @a \
-    if score @s pt.bingo.unlucky_gravel.status matches 0.. \
+    if score @s pt.bingo.unlucky_gravel.status matches 0..12 \
     if items entity @s container.* minecraft:flint \
     run scoreboard players set @s pt.bingo.unlucky_gravel.status -1
 execute as @a \
-    if score @s pt.bingo.unlucky_gravel.status matches 0.. \
+    if score @s pt.bingo.unlucky_gravel.status matches 0..12 \
     if items entity @s weapon.* minecraft:flint \
     run scoreboard players set @s pt.bingo.unlucky_gravel.status -1
 execute as @a \
